@@ -1,0 +1,7 @@
+{
+  "name": "BlockForge Studio",
+  "description": "Minecraft 基岩版裝備模組 (Add-On) 生成器規格書與架構規劃工作台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
